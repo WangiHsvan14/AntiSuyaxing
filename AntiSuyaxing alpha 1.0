@@ -1,1 +1,2 @@
-
+@echo off
+taskkill /f /im "suyaxing.exe"
